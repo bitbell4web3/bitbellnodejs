@@ -1,0 +1,15 @@
+.env
+fileUpload
+.npmrc
+npm-debug.log
+node_modules
+.idea
+build
+.vscode
+docs-dist
+dist
+es
+logs/*
+info.log
+package-lock.json
+ecosystem.json

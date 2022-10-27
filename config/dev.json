@@ -1,0 +1,28 @@
+{
+  "jwt": {
+    "tokenHeader": "Authorization",
+    "secret": "fasdfasdfasdf3",
+    "expiration": "365d",
+    "tokenHead": "Bearer"
+  },
+  "whiteHost": "*",
+  "db":
+  {
+    "HOST": "127.0.0.1",
+    "USER": "mysql",
+    "PASSWORD": "xxxxx",
+    "DB": "bitbell",
+    "dialect": "mysql",
+    "port": "3306",
+    "pool": {
+      "max": 5,
+      "min": 0,
+      "acquire": 30000,
+      "idle": 10000
+    }
+  },
+  "ws":{
+    "opensea_ws_base_endpoint":"wss://testnets-stream.openseabeta.com/socket/websocket"
+  },
+  "port":"9023"
+}

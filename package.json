@@ -1,0 +1,42 @@
+{
+  "name": "bitbellnodejs",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "pm2 start ecosystem.json --env dev",
+    "production": "pm2 start ecosystem.json --env production",
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "@binance/connector": "^1.7.0",
+    "async-mutex": "^0.3.2",
+    "bcrypt": "^5.0.1",
+    "config": "^3.3.7",
+    "cookie-parser": "~1.4.4",
+    "crypto": "^1.0.1",
+    "debug": "~2.6.9",
+    "decimal.js": "^10.3.1",
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.9",
+    "http-errors": "~1.6.3",
+    "ioredis": "^4.27.9",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.13.4",
+    "koa-body": "^5.0.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-compress": "^5.1.0",
+    "koa-helmet": "^6.1.0",
+    "koa-router": "^10.1.1",
+    "log4js": "^6.4.1",
+    "moment": "^2.29.1",
+    "mysql2": "^2.3.3",
+    "node-schedule": "^2.1.0",
+    "nodemailer": "^6.7.2",
+    "pug": "2.0.0-beta11",
+    "redlock": "^4.2.0",
+    "sequelize": "^6.16.1",
+    "uuid": "^8.3.2",
+    "xlsx": "^0.18.5",
+    "ws": "^8.8.1"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "400001": {
+    "status": 400,
+    "message": "Illegal request"
+  },
+  "400003": {
+    "status": 400,
+    "message": "Request parameter is invalid"
+  },
+  "400004": {
+    "status": 400,
+    "message": "Image type is incorrect"
+  },
+  "400005": {
+    "status": 400,
+    "message": "Picture size is too large"
+  },
+  "400006": {
+    "status": 400,
+    "message": "Image size and scale are incorrect"
+  },
+  "400400": {
+    "status": 400,
+    "message": "Undefined Error"
+  },
+  "401": {
+    "status": 401,
+    "message": "Unauthorized"
+  },
+  "400404": {
+    "status": 404,
+    "message": "Not Found"
+  },
+  "400500": {
+    "status": 500,
+    "message": "Internal Server Error"
+  },
+  "404001": {
+    "status": 400,
+    "message": "Request parameter is invalid"
+  },
+  "404002": {
+    "status": 400,
+    "message": "Invalid MySql id"
+  },
+  "404003": {
+    "status": 400,
+    "message": "Required field cannot be empty"
+  },
+  "404004": {
+    "status": 400,
+    "message": "The Phone Number formate is not corect"
+  },
+  "404005": {
+    "status": 400,
+    "message": "Parameter value is out of range"
+  },
+  "404006": {
+    "status": 400,
+    "message": "Request parameter is invalid"
+  },
+  "404007": {
+    "status": 400,
+    "message": "Start time cannot be greater or equal than end time"
+  },
+  "404008": {
+    "status": 410,
+    "message": "Incorrect bank card format"
+  },
+  "403001": {
+    "status": 410,
+    "message": "The refund order doesn't exist"
+  },
+  "403002": {
+    "status": 400,
+    "message": "An error occurred while returning the interest"
+  },
+  "403003": {
+    "status": 400,
+    "message": "The refund amount is incorrect, please contact a technician"
+  },
+  "403004": {
+    "status": 400,
+    "message": "An internal error occurred while refunding"
+  },
+  "403005": {
+    "status": 400,
+    "message": "An error occurred while refunding a third-party payment platform"
+  },
+  "402001": {
+    "status": 400,
+    "message": "Supplier does not exist"
+  },
+  "402002": {
+    "status": 400,
+    "message": "No permission to view this product"
+  },
+  "402003": {
+    "status": 400,
+    "message": "The product does not exist"
+  },
+  "402004": {
+    "status": 400,
+    "message": "Type not in search"
+  },
+  "402005": {
+    "status": 400,
+    "message": "SKU information cannot be empty"
+  },
+  "402006": {
+    "status": 400,
+    "message": "Product attribute error"
+  },
+  "402007": {
+    "status": 400,
+    "message": "Sales city cannot be empty"
+  },
+  "401001": {
+    "status": 400,
+    "message": "username error"
+  },
+  "401002": {
+    "status": 400,
+    "message": "password error"
+  },
+  "401003": {
+    "status": 400,
+    "message": "The new password is the same as the original password"
+  },
+  "401004": {
+    "status": 400,
+    "message": "original password is error"
+  },
+  "403006": {
+    "status": 400,
+    "message": "An error occurred while generate delevery template"
+  },
+  "403007": {
+    "status": 400,
+    "message": "Some delivery order have errors, please export error information"
+  },
+  "403008": {
+    "status": 400,
+    "message": "The logistics company doesn't exist"
+  },
+  "403009": {
+    "status": 400,
+    "message": "The refund order doesn't exist"
+  },
+  "403010": {
+    "status": 400,
+    "message": "The email already exists"
+  },
+  "403011": {
+    "status": 400,
+    "message": "The phone number user is not  exists"
+  },
+  "403012": {
+    "status": 400,
+    "message": "passowrd is  error"
+  },
+  "403013": {
+    "status": 400,
+    "message": "user binance app_key has already exists"
+  },
+  "403014": {
+    "status": 400,
+    "message": "user's discord account doesn't exist"
+  },
+  "403015": {
+    "status": 400,
+    "message": "user's discord already exist"
+  },
+  "403016": {
+    "status": 400,
+    "message": "spot strategy already exist"
+  },
+  "403017": {
+    "status": 400,
+    "message": "send email for   register only once time in 1 minute"
+  },
+  "403018": {
+    "status": 400,
+    "message": "email register code is expiration,must be in one hour"
+  },
+  "403019": {
+    "status": 400,
+    "message": "email register code is error"
+  },
+  "403020": {
+    "status": 400,
+    "message": "no email register code,pls send register code again "
+  }
+}
